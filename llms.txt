@@ -1,0 +1,58 @@
+# Laboratoriomecanicadesuelos — Cordoba
+
+> Geotechnical engineering services in Cordoba, España.
+
+## Services
+- [Aislacion Sismica](https://cordoba.laboratoriomecanicadesuelos.org/aislacion-sismica/)
+- [Anclajes](https://cordoba.laboratoriomecanicadesuelos.org/anclajes/)
+- [Calicatas](https://cordoba.laboratoriomecanicadesuelos.org/calicatas/)
+- [Calicatas Exploratorias](https://cordoba.laboratoriomecanicadesuelos.org/calicatas-exploratorias/)
+- [Cbr Vial](https://cordoba.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://cordoba.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Cimentaciones Superficiales](https://cordoba.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/)
+- [Columnas Grava](https://cordoba.laboratoriomecanicadesuelos.org/columnas-grava/)
+- [Densidad Cono Arena](https://cordoba.laboratoriomecanicadesuelos.org/densidad-cono-arena/)
+- [Ensayo Cpt](https://cordoba.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayos Proctor](https://cordoba.laboratoriomecanicadesuelos.org/ensayos-proctor/)
+- [Estabilidad Taludes](https://cordoba.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Excavaciones Profundas](https://cordoba.laboratoriomecanicadesuelos.org/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://cordoba.laboratoriomecanicadesuelos.org/excavaciones-subterraneo/)
+- [Exploracion](https://cordoba.laboratoriomecanicadesuelos.org/exploracion/)
+- [Geofisica](https://cordoba.laboratoriomecanicadesuelos.org/geofisica/)
+- [Geotecnia Vial](https://cordoba.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://cordoba.laboratoriomecanicadesuelos.org/granulometria/)
+- [Grouting](https://cordoba.laboratoriomecanicadesuelos.org/grouting/)
+- [Inyecciones](https://cordoba.laboratoriomecanicadesuelos.org/inyecciones/)
+- [Laboratorio In Situ](https://cordoba.laboratoriomecanicadesuelos.org/laboratorio-in-situ/)
+- [Laboratorio Lab](https://cordoba.laboratoriomecanicadesuelos.org/laboratorio-lab/)
+- [Licuefaccion](https://cordoba.laboratoriomecanicadesuelos.org/licuefaccion/)
+- [Limites Atterberg](https://cordoba.laboratoriomecanicadesuelos.org/limites-atterberg/)
+- [Losa De Cimentacion](https://cordoba.laboratoriomecanicadesuelos.org/losa-de-cimentacion/)
+- [Losas Fundacion](https://cordoba.laboratoriomecanicadesuelos.org/losas-fundacion/)
+- [Masw](https://cordoba.laboratoriomecanicadesuelos.org/masw/)
+- [Mejoramiento](https://cordoba.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Microzonificacion Sismica](https://cordoba.laboratoriomecanicadesuelos.org/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://cordoba.laboratoriomecanicadesuelos.org/monitoreo-excavaciones/)
+- [Muros Contencion](https://cordoba.laboratoriomecanicadesuelos.org/muros-contencion/)
+- [Pavimento Flexible](https://cordoba.laboratoriomecanicadesuelos.org/pavimento-flexible/)
+- [Pavimento Rigido](https://cordoba.laboratoriomecanicadesuelos.org/pavimento-rigido/)
+- [Permeabilidad In Situ](https://cordoba.laboratoriomecanicadesuelos.org/permeabilidad-in-situ/)
+- [Pilotes](https://cordoba.laboratoriomecanicadesuelos.org/pilotes/)
+- [Placa De Carga](https://cordoba.laboratoriomecanicadesuelos.org/placa-de-carga/)
+- [Refraccion Sismica](https://cordoba.laboratoriomecanicadesuelos.org/refraccion-sismica/)
+- [Resistividad](https://cordoba.laboratoriomecanicadesuelos.org/resistividad/)
+- [Resistividad Electrica Sev](https://cordoba.laboratoriomecanicadesuelos.org/resistividad-electrica-sev/)
+- [Sismica](https://cordoba.laboratoriomecanicadesuelos.org/sismica/)
+- [Sondajes Spt](https://cordoba.laboratoriomecanicadesuelos.org/sondajes-spt/)
+- [Taludes](https://cordoba.laboratoriomecanicadesuelos.org/taludes/)
+- [Triaxial](https://cordoba.laboratoriomecanicadesuelos.org/triaxial/)
+- [Tuneles Suelo Blando](https://cordoba.laboratoriomecanicadesuelos.org/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://cordoba.laboratoriomecanicadesuelos.org/vibrocompactacion/)
+- [Zapatas](https://cordoba.laboratoriomecanicadesuelos.org/zapatas/)
+
+## Contact
+- Website: https://cordoba.laboratoriomecanicadesuelos.org/
+
+## About
+This site provides geotechnical engineering services in Cordoba, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
